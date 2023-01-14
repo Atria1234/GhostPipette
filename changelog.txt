@@ -1,0 +1,7 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2023-01-14
+  Info:
+    - Initial release
+  Feature:
+    - Pipetting entity not in player inventory will put ghost of that entity into player cursor.

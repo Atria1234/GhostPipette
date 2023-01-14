@@ -1,0 +1,10 @@
+{
+  "name": "GhostPipette",
+  "version": "1.0.0",
+  "title": "Ghost Pipette",
+  "author": "Atria",
+  "contact": "tomas.chmelik2@gmail.com",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "Pipetting entity not in player inventory will put ghost of that entity into player cursor"
+}
